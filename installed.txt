@@ -1,0 +1,10 @@
+cn.silently9527.toolset
+cn.wuzhizhan.plugin.mybatis
+cn.yiiguxing.plugin.translate
+com.alibaba.p3c.xenoamess
+com.codota.csp.intellij
+com.wakatime.intellij.plugin
+commit-template-idea-plugin
+izhangzhihao.rainbow.brackets
+leetcode-editor
+some.awesome

@@ -1,0 +1,73 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogHeight" value="171" />
+    <option name="newTranslationDialogWidth" value="409" />
+    <option name="newTranslationDialogX" value="92" />
+    <option name="newTranslationDialogY" value="774" />
+    <histories>
+      <item value="ju" />
+      <item value="小于0" />
+      <item value="xiao'yu" />
+      <item value="雷达" />
+      <item value="radar" />
+      <item value="扩散" />
+      <item value="发出" />
+      <item value="接收" />
+      <item value="小站" />
+      <item value="xi'zo'zhan" />
+      <item value="接入" />
+      <item value="transform" />
+      <item value="trans" />
+      <item value="转换" />
+      <item value="入库时差" />
+      <item value="入库shi'cha" />
+      <item value="入库" />
+      <item value="数据预处理" />
+      <item value="校时" />
+      <item value="jiao'shi" />
+      <item value="链路" />
+      <item value="链路延时" />
+      <item value="延时" />
+      <item value="yan'shi" />
+      <item value="allocatable" />
+      <item value="Artemis" />
+      <item value="revert" />
+      <item value="re" />
+      <item value="inexistence" />
+      <item value="Invalid Signature" />
+      <item value="签名" />
+      <item value="apply" />
+      <item value="Navigate" />
+      <item value="Navigate to usages of message queues" />
+      <item value="converter" />
+      <item value="suitable" />
+      <item value="cryption" />
+      <item value="crypt" />
+      <item value="encryption" />
+      <item value="加密" />
+      <item value="处理" />
+      <item value="平均消费时长" />
+      <item value="slowest Consume Time" />
+      <item value="最快消费时长" />
+      <item value="最晚未被消费时长" />
+      <item value="动态" />
+      <item value="Perm" />
+      <item value="Interceptor" />
+      <item value="Deprecated" />
+      <item value="Aspect" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="57" />
+        <entry key="ESTONIAN" value="1" />
+        <entry key="DANISH" value="1" />
+        <entry key="FRENCH" value="1" />
+        <entry key="TURKISH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1619750633373" />
+  </component>
+</application>

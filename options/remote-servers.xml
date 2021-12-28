@@ -1,0 +1,43 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="sup_Docker" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://172.17.1.47:2375" />
+        <option name="pathMappings">
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="D:\dockerUsers" />
+              <option name="virtualMachinePath" value="/Users" />
+            </DockerPathMappingImpl>
+          </list>
+        </option>
+      </configuration>
+    </remote-server>
+    <remote-server name="Tencent" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://81.69.203.128:2375" />
+        <option name="pathMappings">
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="C:\Users" />
+              <option name="virtualMachinePath" value="/Users" />
+            </DockerPathMappingImpl>
+          </list>
+        </option>
+      </configuration>
+    </remote-server>
+    <remote-server name="visitor" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://172.16.2.59:2375" />
+        <option name="pathMappings">
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="C:\Users" />
+              <option name="virtualMachinePath" value="/Users" />
+            </DockerPathMappingImpl>
+          </list>
+        </option>
+      </configuration>
+    </remote-server>
+  </component>
+</application>
